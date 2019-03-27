@@ -1,1 +1,3 @@
 # math.py
+
+Math algorithm
